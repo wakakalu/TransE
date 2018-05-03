@@ -39,3 +39,5 @@ pre.predict()
 ```
 预测结果如图（id为用户id，rankList中的数字为音乐id）
 ![image](pics/rankresult.png)
+
+算法参考自《Translating Embeddings for Modeling Multi-relational Data》
